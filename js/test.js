@@ -1389,8 +1389,8 @@
 // console.log(Component.__proto__);
 // console.log(Component.__proto__ === Component.__proto__)
 
-const value = 5;
-console.log(value.__proto__.__proto__.__proto__ === Object.prototype.__proto__);
-console.log(value.__proto__.__proto__.__proto__);
+// const value = 5;
+// console.log(value.__proto__.__proto__.__proto__ === Object.prototype.__proto__);
+// console.log(value.__proto__.__proto__.__proto__);
 // console.log(value.prototype);
 // console.log(Function.prototype);
